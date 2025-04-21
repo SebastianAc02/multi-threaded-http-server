@@ -1,5 +1,11 @@
 # 📡 Servidor HTTP en C++
 
+## 👥 Integrantes
+- Juan Pablo Rua Cartagena
+- José David Toro Franco
+- Sebastian Acosta Molina
+- Isabela Osorio Botero
+
 ## 📌 Introducción
 
 Este proyecto consiste en la implementación de un servidor HTTP en C++ compatible con HTTP/1.1, capaz de manejar métodos `GET`, `HEAD` y `POST`. El servidor permite servir archivos desde una carpeta específica, gestionar errores HTTP 400 y 404, manejar concurrencia con hilos (threads) y mantener logs de todas las peticiones recibidas.
@@ -150,3 +156,5 @@ Documentación oficial de std::thread en C++: https://en.cppreference.com/w/cpp/
 Protocolo HTTP 1.1: RFC 2616
 
 AWS EC2 User Guide: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/
+### 🎥 Link del video
+https://youtu.be/8qSFUlQyOK0
